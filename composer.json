@@ -1,0 +1,14 @@
+{
+    "name": "root/trs-repo",
+    "description": "Simple Township, Range, Section converter.",
+    "authors": [
+        {
+            "name": "Aaron Valandra",
+            "email": "avaland@woopta.com"
+        }
+    ],
+    "require": {
+        "league/csv": "~7.0",
+        "symfony/var-dumper": "~2.6"
+    }
+}
